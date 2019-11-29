@@ -1,5 +1,9 @@
 aaaaaaa
+<<<<<<< HEAD
 bbbbbbb 11111
+=======
+bbbbbbb 22222
+>>>>>>> master
 ccccccc 33333
 ddddddd 44444
 fffffff
